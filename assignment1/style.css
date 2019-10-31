@@ -1,0 +1,55 @@
+
+
+img.triangle{
+  clip-path: polygon(100% 50%, 0 0, 0 100%);
+  width: 500px;
+}
+
+#container{
+  width: 50%;
+  float: right;
+}
+
+input[type=text]{
+  width: 60%;
+  padding: 12px 20px;
+  margin: 4px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #ccc;
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 60%;
+}
+
+
+
+h1 {
+  font-size: 200%;
+}
+
+h2  {
+  font-size: 170%;
+  text-decoration: underline;
+  text-decoration-color: #3ab7aa;
+}
+
+p1{
+  font-size: 100%;
+  text-align: right;
+  color: #3ab7aa;
+
+}
+
+p2{
+  font-size: 100%;
+  text-align: right;
+  color: black;
+}
